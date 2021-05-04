@@ -1,0 +1,34 @@
+body
+{
+    background-color: aquamarine;
+}
+.w-100
+{
+    background-color:skyblue;
+    box-shadow: 5px 5px 10px 0px black;
+    width: 410px;
+}
+.text-center
+{
+    box-shadow: 5px 5px 10px 0px black;
+    border-collapse: collapse;
+    border: 3px solid white;
+}
+.nev
+{
+    text-align: center;
+}
+.alatt
+{
+    text-align: center;
+}
+h1
+{
+    font-weight: bolder;
+    font-style: italic;
+}
+.col-sm-4
+{
+    font-weight: bolder;
+    font-style: italic;
+}
